@@ -17,6 +17,10 @@ soda
 drink 
 sake
 before
+wine
+donky
+anti
+
 
 
 Instructions:
